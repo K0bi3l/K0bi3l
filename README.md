@@ -11,5 +11,5 @@
 
 ---
 
-### 📊 My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0bi3l&layout=compact&theme=transparent&hide_border=true)
+### 📊 My GitHub Stats
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TWÓJ_NICK_NA_GITHUBIE&theme=transparent)](https://github.com/TWÓJ_NICK_NA_GITHUBIE)
