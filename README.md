@@ -11,5 +11,8 @@
 
 ---
 
-### 📊 My GitHub Stats
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TWÓJ_NICK_NA_GITHUBIE&theme=transparent)](https://github.com/TWÓJ_NICK_NA_GITHUBIE)
+## Skills and technologies
+<p align="center">
+  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=K0bi3l&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
+</p>
+<br></br>
