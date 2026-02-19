@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Wiktor!
 
-<!--
-**K0bi3l/K0bi3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior .NET Developer | Computer Science B.Sc. & AI M.Sc. Student**
 
-Here are some ideas to get you started:
+### 🔭 What I'm up to
+- 💼 Working as a **Junior .NET Developer**
+- 🎓 Pursuing an **M.Sc. in Artificial Intelligence** (B.Sc. in Computer Science completed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktor-kobielski-640944269/)
+
+---
+
+### 📊 My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0bi3l&layout=compact&theme=transparent&hide_border=true)
