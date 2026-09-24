@@ -1,15 +1,20 @@
 # Hi 👋, I'm Wiktor!
 
-**Junior .NET Developer | Computer Science B.Sc. & AI M.Sc. Student**
+Software Engineer | M.Sc. student in Artificial Intelligence at Warsaw University of Technology
 
-### 🔭 What I'm up to
-- 💼 Working as a **Junior .NET Developer**
+### 🔭 About me
+
+- 💼 Recently a **Software Engineering Intern at Dropbox**, building agentic tooling for CI failure triage (Python, Go, MCP)
+- 🛠️ Before that, a year as a **.NET developer** on a B2B CRM platform, promoted from intern to junior
 - 🎓 Pursuing an **M.Sc. in Artificial Intelligence** (B.Sc. in Computer Science completed)
+- ⚡ Quick to pick up new languages and domains, comfortable owning systems end-to-end
+- 📫 Open to full-time roles: [LinkedIn](https://linkedin.com/in/TWOJ-PROFIL)
 
-### 📫 Let's connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktor-kobielski-640944269/)
+### 🧰 Tech I work with
 
----
+- **Languages:** C#, Python, TypeScript, Rust, C/C++, Go
+- **Frameworks & Libraries:** ASP.NET Core, EF Core, FastMCP, Pydantic, React
+- **Infra & Cloud:** Docker, AWS, Azure, Cloudflare, Buildkite
 
 ## Skills and technologies
 <p align="center">
